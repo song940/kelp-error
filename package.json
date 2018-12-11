@@ -1,6 +1,6 @@
 {
   "name": "kelp-error",
-  "version": "1.0.0",
+  "version": "0.0.3",
   "description": "kelp error handler ",
   "main": "index.js",
   "scripts": {
@@ -23,5 +23,8 @@
   ],
   "devDependencies": {
     "kelp": "^1.0.0"
+  },
+  "dependencies": {
+    "superror": "latest"
   }
 }

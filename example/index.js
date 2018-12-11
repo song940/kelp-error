@@ -1,7 +1,7 @@
 'use strict';
 const http  = require('http');
 const kelp  = require('kelp');
-const error = require('../');
+const error = require('..');
 
 const app = kelp();
 
